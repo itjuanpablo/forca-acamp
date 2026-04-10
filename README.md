@@ -57,11 +57,6 @@ A aplicação foi construída com foco em performance, organização e escalabil
 git clone https://github.com/seu-usuario/nome-do-repo.git
 ```
 
-### 🔹 Acesse a pasta
-```
-cd nome-do-repo
-```
-
 ### 🔹 Instale as dependências
 ```
 npm install
