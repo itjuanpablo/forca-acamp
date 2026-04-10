@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto tem como objetivo facilitar o processo de inscrição de participantes no evento, centralizando dados e tornando o fluxo mais simples e eficiente.
+Este projeto tem como objetivo facilitar o processo de inscrição de participantes em eventos, centralizando dados e tornando o fluxo mais simples e eficiente.
 
 A aplicação foi construída com foco em performance, organização e escalabilidade, podendo ser adaptada para diferentes tipos de eventos.
 
@@ -32,3 +32,69 @@ A aplicação foi construída com foco em performance, organização e escalabil
 ---
 
 ## 📂 Estrutura do projeto
+
+```
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── main.jsx
+├── index.html
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Como rodar o projeto
+
+### 🔹 Pré-requisitos
+- Node.js instalado
+- Git instalado
+
+### 🔹 Clone o repositório
+```
+git clone https://github.com/seu-usuario/nome-do-repo.git
+```
+
+### 🔹 Acesse a pasta
+```
+cd nome-do-repo
+```
+
+### 🔹 Instale as dependências
+```
+npm install
+```
+
+### 🔹 Execute o projeto
+```
+npm run dev
+```
+
+---
+
+## 📸 Preview
+
+---
+
+## 🎯 Melhorias futuras
+
+- Integração com backend/API
+- Armazenamento em banco de dados
+- Autenticação de usuários
+- Painel administrativo
+- Exportação de dados
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas!
+Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+---
+
+## ✍️ Autor
+
+Desenvolvido por **Juan Pablo** 🚀
