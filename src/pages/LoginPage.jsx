@@ -43,9 +43,7 @@ export default function LoginPage({ onLogin }) {
           onClick={handleLogin}>
           Entrar →
         </button>
-        <p style={{ fontSize:'.72rem', color:'var(--mid)', marginTop:'1rem', fontWeight:600 }}>
-          Senha padrão: <code>forcaacamp2026</code><br/>Altere em <code>src/pages/LoginPage.jsx</code>
-        </p>
+
       </div>
     </div>
   )
