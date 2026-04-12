@@ -29,4 +29,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Não incluir informações sensíveis ou arquivos de configuração específicos
 *.txt
+supabase.md
