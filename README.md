@@ -22,24 +22,6 @@ npm run build
 
 ---
 
-## 🌐 Deploy grátis no Vercel (recomendado)
-
-1. Crie conta em [vercel.com](https://vercel.com)
-2. Instale o Vercel CLI: `npm i -g vercel`
-3. Na pasta do projeto: `vercel`
-4. Siga os prompts — fica no ar em ~1 minuto ✅
-
----
-
-## 🔐 Senha do ADM
-
-Em `src/pages/LoginPage.jsx`, linha 3:
-```js
-const SENHA = 'forcaacamp2026'   // ← troque aqui
-```
-
----
-
 ## 📁 Estrutura do projeto
 
 ```
